@@ -1,6 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 
-import { ICurrentWeather } from "../Model/interfaces";
+import { ICurrentWeather } from "../model/interfaces";
 
 @Component({
   selector: "app-current-weather",
